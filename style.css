@@ -1,0 +1,23 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+     color: Navy;
+     background-color: white;
+     font-family: American Typewriter;
+     font-weight: bold;
+}
+
+h3 {
+     color: Skyblue;
+     background-color: white;
+     font-family: American Typewriter;
+    
+}
+
+.container {
+  background-color: white;
+}
+
+
